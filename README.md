@@ -2,6 +2,7 @@
 Generator bubble image for discord gif
 
 ```bash
+pip install Pillow
 python bubble.py
 ```
 
