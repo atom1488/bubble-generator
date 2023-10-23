@@ -2,7 +2,7 @@ from PIL import Image, ImageSequence
 import imghdr
 import os
 
-image_bulle_path = "bulle.png"
+image_bulle_path = "bubble.png"
 
 def find_image_with_prefix(directory):
     if not os.path.exists(directory):
